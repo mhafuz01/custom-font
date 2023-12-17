@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ইসলামিক নাম</string>
+    <string name="boy_name">ছেলেদের নাম</string>
+    <string name="girl_name">মেয়েদের নাম</string>
+    <string name="about_name_title">ইসলামে নামের গুরুত্ব</string>
+    <string name="about_name_title2">আরবি নামের প্রয়োজনীয়তা</string>
+    <string name="about_name_title3">পিতার ওপর সন্তানের হক</string>
+    <string name="about_name_title4">পিতার নামেই সন্তানের প্রকৃত পরিচয়</string>
+    <string name="about_name_title5">নাম কখন রাখবেন</string>
+    <string name="about_name_title6">তাহনীক কি ও কেন করাবেন *</string>
+    <string name="about_name_title7">নাম রাখার সময় যা লক্ষ্য রাখতে হবে</string>
+    <string name="about_name_title8">শিশুদের একাধিক নাম রাখা</string>
+    <string name="about_name_title9">ভাল নামের সুফল</string>
+    <string name="about_name_title10">মন্দ নামের পরিণতি</string>
+    <string name="about_name_title11">নামের পরিবর্তন</string>
+    <string name="title_activity_name">NameActivity</string>
+    <string name="name_meaning">অর্থঃ %s</string>
+    <string name="name_english">ইংরেজীঃ %s</string>
+    <string name="expand_button_content_description">See more or less information about a name.</string>
+</resources>
